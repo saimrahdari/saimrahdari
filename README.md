@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [Github Link](https://github.com/saimrahdari)
 
-- 📫 How to reach me **saimimtiaz22@gmail.com**
-
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1NgAA7je-GG0vhgTtoo59VlOpq8sMd2O7/view?usp=sharing)
+
+- 📫 How to reach me **saimimtiaz22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
