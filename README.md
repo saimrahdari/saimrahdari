@@ -15,7 +15,7 @@
 - 📫 How to reach me **saimimtiaz22@gmail.com**
  
     <span style="float:right;">
-     <p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimrahdari&show_icons=true&locale=en&layout=compact" alt="saimrahdari" /></p>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimrahdari&show_icons=true&locale=en&layout=compact" alt="saimrahdari" />
     </span>
 </p>
 
