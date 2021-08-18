@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saim Rahdari</h1>
 <h3 align="center">A passionate Flutter Mobile App Developer</h3>
 
-
+</br>
 
 - 🌱 I’m currently learning **Flutter, State Management, API Integrations etc.** 
 
