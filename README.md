@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/saimrahdari" target="blank"><img src="https://img.shields.io/twitter/follow/saimrahdari?logo=twitter&style=for-the-badge" alt="saimrahdari" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, State Management, API Integrations etc.** <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimrahdari&show_icons=true&locale=en&layout=compact" alt="saimrahdari" /></p>
+- 🌱 I’m currently learning **Flutter, State Management, API Integrations etc.** <p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimrahdari&show_icons=true&locale=en&layout=compact" alt="saimrahdari" /></p>
 
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/saimrahdari)
