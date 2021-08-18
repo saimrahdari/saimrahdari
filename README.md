@@ -5,11 +5,14 @@
 
 - 🌱 I’m currently learning **Flutter, State Management, API Integrations etc.**
 
-- 👨‍💻 All of my projects are available at [Github Link](https://github.com/saimrahdari)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/saimrahdari)
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1NgAA7je-GG0vhgTtoo59VlOpq8sMd2O7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NgAA7je-GG0vhgTtoo59VlOpq8sMd2O7/view?usp=sharing)
 
 - 📫 How to reach me **saimimtiaz22@gmail.com**
+
+<h3 align="left">About Me:</h3>
+<p align="left">I am Saim, a Mobile App Developer who’s building unique apps and always been motivated to constantly improve my skills and improve myself professionally. I learn fast and can adapt quickly to teamwork. I specialize in Dart and creating projects with Flutter. You can check out some of my projects and if you got any questions you can reach out in the links below.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
