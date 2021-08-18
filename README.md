@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saim Rahdari</h1>
 <h3 align="center">A passionate Flutter Mobile App Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/saimrahdari" target="blank"><img src="https://img.shields.io/twitter/follow/saimrahdari?logo=twitter&style=for-the-badge" alt="saimrahdari" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter, State Management, API Integrations etc.** 
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/saimrahdari)
@@ -12,11 +10,11 @@
 - 📫 How to reach me **saimimtiaz22@gmail.com**
 
 <h3 align="left">About Me:</h3>
-<p align="left">I am Saim, an ambitious Mobile App Developer who’s building unique apps and always been motivated to constantly improve my skills and improve myself professionally. I learn fast and can adapt quickly to teamwork. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Check out some of my projects and if you got any questions, feel free to contact me on the links given below.</p>
+<p align="left">I am Saim, a passionate Mobile App Developer who’s building unique apps and always been motivated to constantly improve my skills and improve myself professionally. I learn fast and can adapt quickly to teamwork. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Check out some of my projects and if you got any questions, feel free to contact me on the links given below.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saimrahdari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saimrahdari" height="30" width="40" /></a>
+<a href="https://twitter.com/saimrahdari" target="blank"><img src="https://img.shields.io/twitter/follow/saimrahdari?logo=twitter&style=for-the-badge" alt="saimrahdari" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/11584601/saim-imtiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11584601/saim-imtiaz" height="30" width="40" /></a>
 <a href="https://discord.gg/sirsmokeal0t#5549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sirsmokeal0t#5549" height="30" width="40" /></a>
 </p>
