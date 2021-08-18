@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **saimimtiaz22@gmail.com**
 
-<h3 align="centre">Connect with me:</h3>
-<p align="centre">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/saimrahdari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saimrahdari" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/11584601/saim-imtiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/11584601/saim-imtiaz" height="30" width="40" /></a>
 <a href="https://discord.gg/sirsmokeal0t#5549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sirsmokeal0t#5549" height="30" width="40" /></a>
