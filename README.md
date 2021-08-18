@@ -12,7 +12,7 @@
 - 📫 How to reach me **saimimtiaz22@gmail.com**
 
 <h3 align="left">About Me:</h3>
-<p align="left">I am Saim, a Mobile App Developer who’s building unique apps and always been motivated to constantly improve my skills and improve myself professionally. I learn fast and can adapt quickly to teamwork. I specialize in Dart and creating projects with Flutter. You can check out some of my projects and if you got any questions you can reach out in the links below.</p>
+<p align="left">I am Saim, a Mobile App Developer who’s building unique apps and always been motivated to constantly improve my skills and improve myself professionally. I learn fast and can adapt quickly to teamwork. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Check out some of my projects and if you got any questions, feel free to contact me on the links given below.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
