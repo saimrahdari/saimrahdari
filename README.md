@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saimrahdari" target="blank"><img src="https://img.shields.io/twitter/follow/saimrahdari?logo=twitter&style=for-the-badge" alt="saimrahdari" /></a>
-<a href="https://twitter.com/saimrahdari" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="saimrahdari" /></a>
+<a href="https://stackoverflow.com/users/11584601/saim-rahdari" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="saimrahdari" /></a>
  <a href="https://discord.gg/sirsmokeal0t#5549" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="saimrahdari" /></a>
 </p>
 
