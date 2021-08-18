@@ -6,8 +6,16 @@
 <h3 align="left">About Me:</h3>
 <p align="left">I am Saim, a passionate Mobile App Developer who’s building unique apps and always been motivated to constantly improve my skills and improve myself professionally. I learn fast and can adapt quickly to teamwork. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Check out some of my projects and if you got any questions, feel free to contact me on the links given below.</p>
 
+<p align="left> - 🌱 I’m currently learning **Flutter, State Management, API Integrations etc.** 
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/saimrahdari)
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NgAA7je-GG0vhgTtoo59VlOpq8sMd2O7/view?usp=sharing)
+
+- 📫 How to reach me **saimimtiaz22@gmail.com** <p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimrahdari&show_icons=true&locale=en&layout=compact" alt="saimrahdari" /></p></p>
+
 - 🌱 I’m currently learning **Flutter, State Management, API Integrations etc.** 
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimrahdari&show_icons=true&locale=en&layout=compact" alt="saimrahdari" /></p>
+
 - 👨‍💻 All of my projects are available at [Github](https://github.com/saimrahdari)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NgAA7je-GG0vhgTtoo59VlOpq8sMd2O7/view?usp=sharing)
