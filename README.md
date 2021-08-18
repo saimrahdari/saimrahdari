@@ -21,11 +21,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">  
- <a href="https://twitter.com/saimrahdari" target="blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" /></a>
- <a href="https://twitter.com/saimrahdari" target="blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" /></a>
- <a href="https://twitter.com/saimrahdari" target="blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" /></a>
- <a href="https://twitter.com/saimrahdari" target="blank"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" /></a>
- <a href="https://twitter.com/saimrahdari" target="blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
- </p>
+ <a href="https://flutter.dev" target="blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" /></a>
+ <a href="https://dart.dev" target="blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" /></a>
+ <a href="https://developer.android.com" target="blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" /></a>
+ <a href="https://firebase.google.com/" target="blank"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" /></a>
+ <a href="https://git-scm.com/" target="blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
+</p>
 </br>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimrahdari&show_icons=true&locale=en&layout=compact" alt="saimrahdari" /></p>
