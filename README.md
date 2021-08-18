@@ -6,9 +6,9 @@
 <h3 align="left">About Me:</h3>
 <p align="left">I am Saim, a passionate Mobile App Developer who’s building unique apps and always been motivated to constantly improve my skills and improve myself professionally. I learn fast and can adapt quickly to teamwork. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Check out some of my projects and if you got any questions, feel free to contact me on the links given below.</p>
 
-- 🌱 I’m currently learning **Flutter, State Management, API Integrations etc.** 
+- 🌱 I’m currently learning **Flutter, State Management, API Integrations etc.**       - 👨‍💻 All of my projects are available at [Github](https://github.com/saimrahdari)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/saimrahdari)
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimrahdari&show_icons=true&locale=en&layout=compact" alt="saimrahdari" /></p>
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NgAA7je-GG0vhgTtoo59VlOpq8sMd2O7/view?usp=sharing)
 
@@ -31,4 +31,3 @@
  <a href="https://git-scm.com/" target="blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
 </p>
 </br>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimrahdari&show_icons=true&locale=en&layout=compact" alt="saimrahdari" /></p>
