@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **saimimtiaz22@gmail.com**
 
-
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/saimrahdari" target="blank"><img src="https://img.shields.io/twitter/follow/saimrahdari?logo=twitter&style=for-the-badge" alt="saimrahdari" /></a>
