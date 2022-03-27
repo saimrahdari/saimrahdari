@@ -32,5 +32,3 @@
  <a href="https://git-scm.com/" target="blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
 </p>
 </br>
- 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimrahdari&show_icons=true&locale=en&layout=compact" alt="saimrahdari" /></p>
