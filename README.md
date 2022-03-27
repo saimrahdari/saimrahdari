@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/saimrahdari)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NgAA7je-GG0vhgTtoo59VlOpq8sMd2O7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MbjMqYGUpQ5YGQQPqN5d8TdngLqLvtrF/view?usp=sharing)
 
 - 📫 How to reach me **saimimtiaz22@gmail.com**
 
