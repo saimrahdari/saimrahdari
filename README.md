@@ -15,7 +15,7 @@
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=flutter,aws&theme=dark" alt="react" width="25" height="25" />
+<img src="https://skillicons.dev/icons?i=flutter,aws&theme=dark" alt="react" width="100" height="100" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/flutter.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
